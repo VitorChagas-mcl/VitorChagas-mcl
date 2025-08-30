@@ -32,7 +32,7 @@
 
 | **Languages** | **Web Development** | **Backend & APIs** |
 | :-----------: | :-----------------: | :----------------: |
-| <img src="https://skillicons.dev/icons?i=c,py"/> | <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/> | <img src="https://skillicons.dev/icons?i=nodejs"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50"/> |
+| <img src="https://skillicons.dev/icons?i=c,py,cpp"/> | <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/> | <img src="https://skillicons.dev/icons?i=nodejs"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50"/> |
 
 | **Databases** | **DevOps & Cloud** | **IDEs & Tools** |
 | :-----------: | :----------------: | :--------------: |
