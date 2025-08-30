@@ -30,13 +30,18 @@
 <h3 align="left">Linguagens & Ferramentas:</h3>
 <div align="center">
 
-|                                       Languages                                        |                                        Web Development                                         |                                                               Backend & APIs                                                               |
-| :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-|       <div align="center"><img src="https://skillicons.dev/icons?i=c,py"/></div>       | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs,js" /><br/></div> | <div align="center"><img src="  https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></div> |
-|                                       Databases                                        |                                         DevOps & Cloud                                         |                                                                IDEs & Tools                                                                |
-| <img src="https://skillicons.dev/icons?i=postgres" alt="json" width="40" height="40"/> |    <div align="center"><img src="https://skillicons.dev/icons?i=git,github,docker" /></div>    |                            <div align="center"><img src="https://skillicons.dev/icons?i=vscode,replit" /></div>                            |
-|                                                                                        |                                       Operating Systems                                        |                                                                                                                                            |
-|                                                                                        |      <div align="center"><img src="https://skillicons.dev/icons?i=windows,linux" /></div>      |                                                                                                                                            |
+| Languages | Web Development | Backend & APIs |
+|-----------|----------------|----------------|
+| <img src="https://skillicons.dev/icons?i=c,py" /> | <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" /> | <img src="https://skillicons.dev/icons?i=nodejs" /><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50"/> |
+
+| Databases | DevOps & Cloud | IDEs & Tools |
+|-----------|----------------|--------------|
+| <img src="https://skillicons.dev/icons?i=postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,docker" /> | <img src="https://skillicons.dev/icons?i=vscode,replit" /> |
+
+| Operating Systems |
+|--------------------|
+| <img src="https://skillicons.dev/icons?i=windows,linux" /> |
+    |                                                                                                                                            |
 
 </div>
 
