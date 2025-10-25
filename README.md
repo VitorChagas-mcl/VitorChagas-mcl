@@ -36,7 +36,7 @@
 
 | **Databases** | **DevOps & Cloud** | **IDEs & Tools** |
 | :-----------: | :----------------: | :--------------: |
-| <img src="https://skillicons.dev/icons?i=postgres"/> | <img src="https://skillicons.dev/icons?i=git,github,docker"/> | <img src="https://skillicons.dev/icons?i=vscode,replit"/> |
+| <img src="https://skillicons.dev/icons?i=postgres"/> | <img src="https://skillicons.dev/icons?i=git,github"/> | <img src="https://skillicons.dev/icons?i=vscode,replit,docker"/> |
 
 | **Operating Systems** |
 | :-------------------: |
