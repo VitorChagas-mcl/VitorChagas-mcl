@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem-vindo+ao+meu+GitHub&color=9D00FF"
+    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Vitor+Chagas&color=9D00FF"
   />
 </h1>
 <h3 align="center">Desenvolvedor de Software</h3>
@@ -10,7 +10,6 @@
 - 🎓 Estudante de **Ciência da Computação - PUC Minas**
 - 🖥️ Experiência com **Linguagens C-Like, Desenvolvimento Front End e Back End**
 - 📈 Atualmente aprendendo **Algoritmos e Estrutura de Dados I, Arquitetura de Computadores I**
-- ⭐ 1x Menção Honrosa **OBMEP**
 
 ---
 
