@@ -9,7 +9,7 @@
 
 - 🎓 Estudante de **Ciência da Computação - PUC Minas**
 - 🖥️ Experiência com **Linguagens C-Like, Desenvolvimento Front End e Back End**
-- 📈 Atualmente aprendendo **Algoritmos e Estrutura de Dados I, Arquitetura de Computadores I**
+- 📈 Atualmente aprendendo **Algoritmos e Estrutura de Dados II, Banco de Dados, Engenharia de Software**
 
 ---
 
