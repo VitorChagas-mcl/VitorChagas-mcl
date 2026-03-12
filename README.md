@@ -44,11 +44,3 @@
 </div>
 
 ---
-
-<h3 align="left">📊 Estatísticas do GitHub:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorChagas-mcl&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs"/>
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorChagas-mcl&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
-</p>
