@@ -44,3 +44,13 @@
 </div>
 
 ---
+
+<h3 align="center">📊 Estatísticas do GitHub:</h3>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorchagas-mcl&show_icons=true&theme=dark"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorchagas-mcl&theme=dark"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorchagas-mcl&layout=compact&theme=dark"/>
+</p>
