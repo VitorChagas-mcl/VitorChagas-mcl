@@ -7,9 +7,11 @@
 
 ---
 
-- 🎓 Estudante de **Ciência da Computação - PUC Minas**
-- 🖥️ Experiência com **Linguagens C-Like, Desenvolvimento Front End e Back End**
-- 📈 Atualmente aprendendo **Algoritmos e Estrutura de Dados III, Linguagem de Programação, Arquitetura de Computadores II**
+- 🎓 Estudante de Ciência da Computação - PUC Minas
+- ⚙️ Desenvolvedor Full Stack na Plataforma VERDE — ICEI PUC Minas
+- 🖥️ Experiência com Linguagens C-Like, Desenvolvimento Front-end e Back-end
+- 📈 Atualmente aprendendo Algoritmos e Estrutura de Dados III, Linguagem de Programação e Arquitetura de Computadores II
+
 
 ---
 
