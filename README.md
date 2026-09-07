@@ -13,7 +13,7 @@
 ---
 
 <h3 align="left">🌐 Redes Sociais:</h3>
-<p align="center"> <a href="https://github.com/VitorChagas-mcl"> <img src="https://img.shields.io/badge/GitHub-9D00FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/vitorchagas-mcl"> <img src="https://img.shields.io/badge/LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.instagram.com/vitorchagas6"> <img src="https://img.shields.io/badge/Instagram-9D00FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/vitorchagas-mcl"> <img src="https://img.shields.io/badge/LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.instagram.com/vitorchagas6"> <img src="https://img.shields.io/badge/Instagram-9D00FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> </p>
 
 ---
 
